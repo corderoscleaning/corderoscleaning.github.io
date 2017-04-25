@@ -10,10 +10,10 @@ github_username:
 GoogleAnalytics: UA-xxxxxx-x
 
 twitter:
-  username: rmsubekti
+  username: 
 facebook:
-  app_id: 1234567
-  publisher: 1234567
+  app_id: 
+  publisher: 
 
 sass:
     style: compressed
