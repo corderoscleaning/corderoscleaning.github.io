@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contact
-permalink: /contact/
+title: Services
+permalink: /services/
 avatar: true
 navigation: true
 ---
