@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
-GoogleAnalytics: UA-xxxxxx-x
+GoogleAnalytics: UA-10797260-12
 
 twitter:
   username: 
