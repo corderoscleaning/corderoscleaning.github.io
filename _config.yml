@@ -2,7 +2,7 @@
 title: Cordero's Cleaning
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Kansas City Janitorial Services
+  Kansas City Janitorial Services
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: 
