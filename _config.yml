@@ -1,12 +1,12 @@
 # Site settings
-title: Emping
+title: Cordero's Cleaning
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Let's Eat!!.
+Kansas City Janitorial Services
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
 GoogleAnalytics: UA-xxxxxx-x
 
 twitter:
