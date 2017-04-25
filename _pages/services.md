@@ -6,7 +6,7 @@ avatar: true
 navigation: true
 ---
 
-Janitorial services offered by Cordero's Cleaning Services in the Kansas City area.
+Janitorial services offered by Cordero's Cleaning in the Kansas City area.
 
 ---
 
