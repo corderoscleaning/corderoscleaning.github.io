@@ -1,6 +1,6 @@
 ---
 layout: default
-avatar: true
+avatar: false
 permalink: /
 ---
 ## 🚀 Hello World
