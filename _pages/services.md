@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Services
+title:  Services
 permalink: /services/
 avatar: true
 navigation: true
