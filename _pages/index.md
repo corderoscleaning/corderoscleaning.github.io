@@ -3,7 +3,7 @@ layout: default
 avatar: true
 permalink: /
 ---
-## We Make KC Shine!
+## Kansas City Janitorial Services
 
 Cordero's Cleaning Services is a family owned and operated janitorial company serving the Kansas City area since 1993.
 
